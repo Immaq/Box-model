@@ -1,0 +1,12 @@
+.sidebar {
+    width: 50%;
+    float: right;
+    background-color: yellowgreen;
+    font-family: Franklin Gothic Medium;
+    font-size: larger;
+  }
+  .column {
+    width: 600px;
+    float: left;
+    margin: 20px;
+  }
