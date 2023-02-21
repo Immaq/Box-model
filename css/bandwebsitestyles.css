@@ -4,9 +4,15 @@
     background-color: yellowgreen;
     font-family: Franklin Gothic Medium;
     font-size: larger;
+    border: 5px dotted red;
+    padding: 5px;
+    margin: 20px;
   }
   .column {
     width: 600px;
     float: left;
     margin: 20px;
+  }
+  img {
+    padding: 10px;
   }
